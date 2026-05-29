@@ -15,8 +15,7 @@ st.set_page_config(page_title="Corporate AI Resume Shortlister", layout="wide")
 
 
 # Initialize the modern Google GenAI Client
-client = genai.Client(api_key="AIzaSyAxhnAZkC5TuXEUS2ecNjEPqigfcdA3l1U")
-
+client = genai.Client(api_key="GEMINI_API_KEY")
 # ------------------------------------------------------------------
 # 2. Core Helper Functions
 # ------------------------------------------------------------------
