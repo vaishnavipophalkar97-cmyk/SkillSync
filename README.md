@@ -50,5 +50,5 @@ Gemini API
 * Skill Gap Analysis
 
 ## Contributors
-Vaishnavi Pophalkar
-Rahi Prajapat
+### Vaishnavi Pophalkar
+### Rahi Prajapat
